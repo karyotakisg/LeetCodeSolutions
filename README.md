@@ -1,2 +1,2 @@
 # LeetCodeSolutions
-Java and Python solutions for LeetCode problems. Gradually, more will be added.
+Java and Python3 solutions for LeetCode problems. Gradually, more will be added.
